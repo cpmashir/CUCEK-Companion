@@ -30,12 +30,12 @@ We've developed a user-friendly web application that acts as a central hub for C
 For Software:
 
 # Installation
-1.  Clone the repository: 
-2.  Navigate to the project directory:
-3.  Open index.html in your web browser.
+1.  Clone the repository: git clone https://github.com/cpmashir/CUCEK-Companion
+2.  Navigate to the project directory: cd CUCEK-Companion
+3.  Open https://cpmashir.github.io/CUCEK-Companion/ in your web browser.
 
 # Run
-No specific commands are needed. Simply open index.html in a web browser.
+No specific commands are needed. Simply open https://cpmashir.github.io/CUCEK-Companion/ in a web browser.
 
 ## Team Contributions
 
