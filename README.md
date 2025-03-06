@@ -43,4 +43,4 @@ No specific commands are needed. Simply open https://cpmashir.github.io/CUCEK-Co
 - *Sumit Raj:* Implemented the faculty details and lost and found sections, handled the CSS styling, and ensured the application's responsiveness.
 
 ---
-Dept. of Computer Applications, CUCEK
+
